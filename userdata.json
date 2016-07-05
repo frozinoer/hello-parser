@@ -1,0 +1,2280 @@
+{
+  "app-bot-bank-q1": {
+    "categoryTitle": "App Bot bank!",
+    "request": "What's new in the app Bot bank!?",
+    "responses": [
+      "The latest version of the app Bot bank! now available in the App Store and Google Play Store, includes these new features: \n- You can now change your password from the app. \n- You can now accept new providers for PayYourBill/Botbank payments in the app. \n- You already have the ability to encode transfers with a memo date.  You can now also edit, delete, ... \n- You can view your electronic account statements. \nWarning: \n- The iOS version of the app requires iOS 6 or higher. \n- For Android, this is a mandatory update that requires OS 2.3.3 or higher."
+    ],
+    "links": [
+      {
+        "href": "https://itunes.apple.com/be/app/bot-bank!-by-botbank-group/id642897716?l=en",
+        "text": "App Store"
+      },
+      {
+        "href": "https://play.google.com/store/apps/details?id=com.bb.botbank",
+        "text": "Google Play Store"
+      }
+    ]
+  },
+  "app-bot-bank-q2": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How do I activate the app Bot bank?",
+    "responses": [
+      "After subscribing to the free offer Bot bank! During your first login, you will be asked to sign your contract with your card reader -signature M2-. Once this is done, you can use the app  Bot bank! to: \n- Check the balance of your accounts. \n- View graphs for the evolution of your account balance, ... \n- Perform and manage transfers. \n- View and pay your PayYourBill/Botbank bills. \n- Make Botbank Mobile Payments payments. \n- Check your account statements. \n- Subscribe to new Bot bank! products -savings account, credit card, Digital Protect ...-."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q3": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How do I log in to the app Bot bank! the first time?",
+    "responses": [
+      "When you first log in to the app Bot bank!, you enter your customer number and your Bot Bank card number. You will find these numbers on your Bot Bank card. \nYou then create a profile. The data of your profile -customer number and card number- is stored. You will therefore not need to reintroduce them when you next use the app Bot bank! \nYou now need to select a method of identification. There are two ways to do this : \n- Either using a card reader and your Bot Bank card. \n- By requesting a unique text code. \nYour device is saved and you can now sign in with the password that you specified in your app contract. \nFinally, you can configure Botbank Mobile Payments, a service of the app Bot bank! which allows you to transfer money with a mobile phone number and also subscribe to other Bot bank! products.  An M2 signature is requested to confirm your choice. \nWarning : You must repeat this process to register  each device with which you want to use the app Bot bank!"
+    ],
+    "links": []
+  },
+  "app-bot-bank-q4": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How do I log in to the app Bot bank!?",
+    "responses": [
+      "You have two possibilities:\n \n- by using a password in combination with automatic device recognition -of your smartphone or tablet-  \n- or by entering a digital signature, using your Bot Bank card in your card reader."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q5": {
+    "categoryTitle": "App Bot bank!",
+    "request": "Where can I find my customer number and bank card number?",
+    "responses": [
+      "You find these numbers on the front of your Bot Bank card. Your customer number is a 10 digit number and your card number is a 15 digit number."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q6": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How do I save my user details?",
+    "responses": [
+      "Your user details are: \n- Your customer number. \n- Your Bot Bank card number.  \nThe app Bot bank! records this data for you when you first use the app. You can give a name to your profile. Upon future identification, you'll simply need to select your profile. The application will then complete your user data automatically."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q7": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How do I modify my user details?",
+    "responses": [
+      "You can modify or delete your profile at any time. To do this, log in, then go to \"Settings\" and select \"Profile \".  You can then modify your username, change your password and delete your profile."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q8": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How do I modify my password or mobile device number?",
+    "responses": [
+      "You can change your password in your \"Profile\" settings.  You can modify your mobile device number by calling the Bot Team on 01 23 45 67 8, Monday to Friday -7am to 10pm- and Saturday -9am to 5pm-."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "app-bot-bank-q9": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How do I log into the app Bot bank! using the card reader?",
+    "responses": [
+      "Here's what to do:\n \n- Start the app Bot bank!. \n- Select an existing profile or click on ‘Continue without a profile’, then type in your user number or your customer number, followed by your 17-digit bank card number. \n- Click on ‘Use the card reader’ and follow the steps shown on the screen. \n- Enter the digital signature obtained using the red -M1- button on your card reader. \n- Click on ‘Log in’.\n  \n For security reasons, you have to go through these steps each time you use the application.\n \nNote: you should never use an M2 signature -via the blue button on your card reader- to log in. The M2 signature is only used to confirm a transaction that you have requested. You log in using the M1 signature -red button- or a text code only."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q10": {
+    "categoryTitle": "App Bot bank!",
+    "request": "Which card should I use with the card reader?",
+    "responses": [
+      "To log in or sign transactions with a card reader, you must always have a valid Bot Bank card.\n \nNote: you cannot log in using a credit card."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q11": {
+    "categoryTitle": "App Bot bank!",
+    "request": "I have typed in three incorrect PIN numbers and the card reader screen is displaying a ‘PIN blocked' message. What should I do?",
+    "responses": [
+      "If you have made three incorrect attempts to type in a PIN number, your Bot Bank card will be locked.\n  \n To unlock your Bot Bank card, call the Bot Team on 01 23 45 67 8, from Monday to Friday -7am to 10 pm- and on Saturday -9am to 5pm-. \n \n If you have forgotten the PIN number of your Bot Bank card, you will need to ask the Bot Team for a new PIN number. You will receive a new PIN code at home a few days later."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "app-bot-bank-q12": {
+    "categoryTitle": "App Bot bank!",
+    "request": "What happens if I type in an incorrect electronic signature?",
+    "responses": [
+      "If you enter an incorrect electronic signature, you still have four attempts. After five unsuccessful attempts, we automatically block access to app Bot bank! \nTo reactivate access to the app Bot bank!, call the Bot Team at 01 23 45 67 8, Monday to Friday -7am to 10pm- and Saturday -9am to 5pm-."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": " Bot Team"
+      }
+    ]
+  },
+  "app-bot-bank-q13": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How do I log in with a password?",
+    "responses": [
+      "The first time you use the app Bot bank!, you will log in using an activation code that you will receive via text message, or using your card reader. Once you are logged in, you get the info screens with the new features and the characteristics of your device will be registered. Afterwards, you can sign up with your password in combination with automatic device recognition; or either with your Bot Bank card in combination with an electronic signature using your card reader."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q14": {
+    "categoryTitle": "App Bot bank!",
+    "request": "Which password should I use?",
+    "responses": [
+      "The password that you need to log in, is the password that you created when you activated the app Bot bank!"
+    ],
+    "links": []
+  },
+  "app-bot-bank-q15": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How can I change the password?",
+    "responses": [
+      "You can either:  \n- contact the Bot Team on 01 23 45 67 8, from Monday to Friday -7am to 10pm- and on Saturday -9 am to 5pm- \n- or change your password in the app Bot bank! in \"Settings\", then under \"Profile\"."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "app-bot-bank-q16": {
+    "categoryTitle": "App Bot bank!",
+    "request": "What happens if I type in an incorrect password?",
+    "responses": [
+      "When you type in an incorrect password, you have two attempts remaining to enter it correctly. After three incorrect attempts, your access to the app Bot bank! is automatically locked for security reasons. Your agreement is then suspended.  \nYou can reactivate your access to the app Bot bank! by calling the Bot Team advisers on 01 23 45 67 8, from Monday to Friday -7am to 10pm- and on Saturday -9am to 5pm-.  \nHave you forgotten your password? No problem, just contact the Bot Team to create a new one."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "app-bot-bank-q17": {
+    "categoryTitle": "App Bot bank!",
+    "request": "I haven't received the text activation code to log into the app Bot bank! What should I do?",
+    "responses": [
+      "Send a blank text to 2211. A few minutes later you can request a new text code.\n \nIf that doesn't work there are a few possible causes:\n- Your mobile device has lost its network signal. Check the connection and try again.\n- Your mobile agreement doesn't cover this type of text. You or your employer may have blocked this feature.\n- Your mobile operator is experiencing technical problems.\n- Bot bank! is experiencing technical problems.\n \nIf you have any questions, contact our Bot Team on 01 23 45 67 8.\nOf course, you can always log in using your card reader and bank card as an alternative."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "app-bot-bank-q18": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How do I log in to the app Bot bank! the first time with a text code?",
+    "responses": [
+      "Here's what to do: \n- Start the app Bot bank!\n- Select an existing profile or click on ‘Continue without profile’, type in your user number or your customer number, followed by your 17-digit bank card number.\n- Click on ‘Request a code via text’.\n- You will receive a text with a code to your mobile device.\n- Enter your password -created when you activated the free Bot bank! offer- and your text code.\n- Click on ‘Log in’."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q19": {
+    "categoryTitle": "App Bot bank!",
+    "request": "What happens if I enter an incorrect password when I log in via text?",
+    "responses": [
+      "When you type in an incorrect password, you still have two attempts remaining to enter your password correctly. After three incorrect attempts, access to the app Bot bank! is automatically locked for security reasons. Your agreement is then suspended.  \nYou can reactivate access to the app Bot bank! by calling the Bot Team on 01 23 45 67 8, from Monday to Friday -7am to 10 pm- and on Saturday -9am to 5pm-."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "app-bot-bank-q20": {
+    "categoryTitle": "App Bot bank!",
+    "request": "Can I reuse an existing text code to log into the app Bot bank!?",
+    "responses": [
+      "No. A text code is only valid for 10 minutes. After this time, you will have to request a new text code.\nEvery text code is unique. Once you have logged in with this code, you can't use it again."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q21": {
+    "categoryTitle": "App Bot bank!",
+    "request": "Which amounts can be transferred with the app Bot bank!",
+    "responses": [
+      "The maximum amount for transfers is 25,000€ per week. This limit does not apply to transfers between your own accounts."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q22": {
+    "categoryTitle": "App Bot bank!",
+    "request": "When should you sign a transfer?",
+    "responses": [
+      "You must enter a M2 signature: \n- If you exceed the amount limit of 2,500€ per week. \n- For transfers to a new beneficiary. \n- For transfers to a designated beneficiary -new or known-.  \nCaution: Never use an M2 signature to identify yourself. The M2 signature is only used to confirm a transaction that you have requested."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q23": {
+    "categoryTitle": "App Bot bank!",
+    "request": "Can I cancel a transfer I have set up using the app Bot bank!",
+    "responses": [
+      "To cancel a transfer that has not yet been emitted, you have two options: \n- Call the Bot Team  on 01 23 45 67 8, Monday to Friday -7am to 10pm- and Saturday -9am to 5pm-. \n- Cancel or change the transfer directly in the app by selecting the account to pay out and then click \"Next Transfer\"."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "app-bot-bank-q24": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How can I be sure that the transfer that I have set up using the app Bot bank! will be made correctly?",
+    "responses": [
+      "When you have finalised and confirmed a transfer using the app Bot bank!, you will immediately receive a message confirming whether your request has been accepted or not -except if the transaction is disrupted by a technical problem, for example if your smartphone or tablet switches off-.\n You can check the transactions on your account via the app Bot bank! Transfers which have just been set up using the app Bot bank! can also be reviewed."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q25": {
+    "categoryTitle": "App Bot bank!",
+    "request": "What happens if my device switches off when I am making a transfer in the app Bot bank!?",
+    "responses": [
+      "When your device fails in the middle of a transaction and you have not yet received confirmation of this transaction, this means that the transaction has not been made. In this case, you should re-enter the transaction again."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q26": {
+    "categoryTitle": "App Bot bank!",
+    "request": "Can I consult my banking statements in the app Bot bank!?",
+    "responses": [
+      "You can view your account statements by selecting an account, then clicking on \"Statements\""
+    ],
+    "links": []
+  },
+  "app-bot-bank-q27": {
+    "categoryTitle": "App Bot bank!",
+    "request": "Why use PayYourBill/Botbank in the app Bot bank!?",
+    "responses": [
+      "1. PayYourBill/Botbank allows you to pay your digital invoices in seconds using a pre-filled transfer form.\n2. The link \"Tasks\", represented by the \"Mailbox\" icon -linked to the account -, allows to access a screen with links to \"To do\" and \"History\".\nThe sub-menu \"To do\" informs you of\n  - All bills you can pay.\n  - Providers that you've allow to send you invoices via PayYourBill/Botbank. \nThe payment of an invoice or acceptance of a provider requires only one click. Same to pay a bill, or accept a new provider. \nThe \"History\" sub-menu gives you an overview of all invoices already paid, salary slips received... \nIf you wish, you receive a text message:\n  - As soon as a bill is due.\n  - When a new provider is available in PayYourBill/Botbank. \nYou can enable or disable this messaging service at any time via the \"Settings\"."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q28": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How secure is the app Bot bank!?",
+    "responses": [
+      "The bank takes every possible measure to ensure optimum security of the app Bot bank! We make sure that the connection between your device and the app Bot bank! is secure. As such, only those devices that you have registered beforehand are authorised to log in to the app Bot bank!. For more details, please contact the Bot Team. You can also contribute to guaranteeing this security by following a few instructions:  - When choosing a new password, avoid combinations that are too obvious -for instance, part of your first or last name, your partner's name or your pet's name, a date of birth, etc.- - Choose a password made up of letters and figures -special characters are not authorised-;  - Keep your password secret since you should be the only person who knows this password;  - Change your password regularly, especially if you suspect that someone else also knows it - Only link the app Bot bank! to those accounts you plan to use regularly; - Close the app Bot bank! session using the \"Log out\" button only.  \n- Go to this link for recommendations on how to carry out your banking transactions safely using the app Bot bank!."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q29": {
+    "categoryTitle": "App Bot bank!",
+    "request": "What should I do if I lose my smartphone or tablet?",
+    "responses": [
+      "You can lock your app contract agreement immediately via the Bot Team.\n \nCall the Bot Team if you can no longer log in with your password and device recognition. You will have to tell them your user number or your customer number, and the number of your mobile device -which you selected when you configured your device-. You can contact the Bot Team on 01 23 45 67 8, from Monday to Friday -7am to 10pm- and on Saturday -9am to 5pm-. Outside Bot Team opening hours, you can also block your app contract via PC Banking."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "app-bot-bank-q30": {
+    "categoryTitle": "App Bot bank!",
+    "request": "What other products can I add using the app Bot bank!?",
+    "responses": [
+      "The application allows you to: \n  - Open a Bot Current Account. \n  - Open a savings account -Traditional, Bot4You or Premium Online-. \n  - Subscribe to the insurance for digital devices, Digital Protect. \n  - Order your Bot Prepaid card. \n  - Request your Bot Credit card. \n  - Request a Direct Reserve. \n  - Request an installment loan."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q31": {
+    "categoryTitle": "App Bot bank!",
+    "request": "How much does the app Bot bank! cost?",
+    "responses": [
+      "The app Bot bank! is included in the free Bot bank! offer. Access is free of charge, whichever method you use: a card reader, a password with a text code or a password with device recognition. If you use the app Bot bank! via a WiFi connection or via your mobile operator's network, the operator may make an additional charge. Ask your operator to tell you about charges for ‘mobile data' connections, particularly abroad."
+    ],
+    "links": []
+  },
+  "app-bot-bank-q32": {
+    "categoryTitle": "App Bot bank!",
+    "request": "Where can I download the app Bot bank!?",
+    "responses": [
+      "You can download the app Bot bank! in the App Store -iOS- or the Google Play Store -Android- by typing \"Bot bank! by Bank of the Test.\" The app Bot bank! is only available in the Botlander \"stores\"."
+    ],
+    "links": [
+      {
+        "href": "https://itunes.apple.com/be/app/bot-bank!-by-botbank-group/id642897716?l=en",
+        "text": "App Store"
+      },
+      {
+        "href": "https://play.google.com/store/apps/details?id=com.bb.botbank",
+        "text": "Google Play Store"
+      }
+    ]
+  },
+  "app-bot-bank-q33": {
+    "categoryTitle": "App Bot bank!",
+    "request": "On what devices can the app Bot bank! be used?",
+    "responses": [
+      "The app Bot bank! has been developped for iOS devices with iOS 6 or higher, and for Android devices with OS 2.3.3 or higher."
+    ],
+    "links": []
+  },
+  "become-a-customer-q1": {
+    "categoryTitle": "Become a customer",
+    "request": "How to become a Bot bank customer?",
+    "responses": [
+      "Two possibilities: \n  - Either on the site www.botbank.distributionlab.com, by clicking on \"Join Bot\". \n  - Either in the app Bot bank! -available in the App Store and Google Play- by clicking on \"Become a Bot bank! customer \"."
+    ],
+    "links": [
+      {
+        "href": "http://www.botbank.distributionlab.com",
+        "text": "www.botbank.distributionlab.com"
+      },
+      {
+        "href": "/join-hello",
+        "text": "Join Bot"
+      },
+      {
+        "href": "https://itunes.apple.com/be/app/bot-bank!-by-botbank-group/id642897716?l=en",
+        "text": "the App Store"
+      },
+      {
+        "href": "https://play.google.com/store/apps/details?id=com.bb.botbank",
+        "text": "Google Play"
+      }
+    ]
+  },
+  "become-a-customer-q2": {
+    "categoryTitle": "Become a customer",
+    "request": "How to subscribe to the Bot4You offer?",
+    "responses": [
+      "Three possibilities: \n- Visit the site www.botbank.distributionlab.com, click \"Join Bot\" and make your request in less than four minutes! \n- Download the app Bot bank! and apply for your subscription to the Bot4You offer directly in the app. \n- Go to a Bank of the Test branch."
+    ],
+    "links": [
+      {
+        "href": "http://www.botbank.distributionlab.com",
+        "text": "www.botbank.distributionlab.com"
+      },
+      {
+        "href": "/join-hello",
+        "text": "Join Bot"
+      },
+      {
+        "href": "/the-app",
+        "text": "the app Bot bank!"
+      }
+    ]
+  },
+  "become-a-customer-q3": {
+    "categoryTitle": "Become a customer",
+    "request": "What are the conditions for the free Bot bank! offer?",
+    "responses": [
+      "Yes, there are two kinds:  \n- The free Bot bank! offer includes a current account for personal use only. Bot bank! approves your request for the free Bot bank! offer if you are over 18 years old, a resident of Botland and legally competent. \n- You need to be in the possession of an iPad or iPhone running iOS version 6 or above, or an Android device running OS version 2.4 or above."
+    ],
+    "links": []
+  },
+  "become-a-customer-q4": {
+    "categoryTitle": "Become a customer",
+    "request": "What are the conditions for the free Bot4You offer?",
+    "responses": [
+      "- Being a physical person.\n- Legally competent. \n- Minimum age: 18 years old. \n- Maximum age upon opening: 27 years and 9 months. \n- Account holders: maximum 2 co-holders as of 18 years old. \n- Maximum two Bot4You accounts."
+    ],
+    "links": []
+  },
+  "become-a-customer-q5": {
+    "categoryTitle": "Become a customer",
+    "request": "I would like to subscribe to the free Bot bank! offer. Which documents do I need?",
+    "responses": [
+      "You only need your identity card and perhaps that of your partner when you are opening a joint account."
+    ],
+    "links": []
+  },
+  "become-a-customer-q6": {
+    "categoryTitle": "Become a customer",
+    "request": "How should I send a copy of my ID card?",
+    "responses": [
+      "Two possibilities: \n  - Either you send a photocopy of your ID card by mail to the following address: Bot bank! Botville Boulevard, 1000 Botville. \n  - Or you send a scan of your ID card by e-mail to the following email address: administration@botbank.com"
+    ],
+    "links": [
+      {
+        "href": "mailto:administration@botbank.com",
+        "text": "administration@botbank.com"
+      }
+    ]
+  },
+  "become-a-customer-q7": {
+    "categoryTitle": "Become a customer",
+    "request": "Can I become a customer if I live abroad?",
+    "responses": [
+      "Only if your legal address is in Botland. However, don't forget that your agreements, bank card, etc., will be sent to the legal address that you gave when you opened the account."
+    ],
+    "links": []
+  },
+  "become-a-customer-q8": {
+    "categoryTitle": "Become a customer",
+    "request": "Can I become a customer if I am not a Botlander citizen ?",
+    "responses": [
+      "Yes, certainly, but you must live in Botland. However, there is an exception to this rule. A US citizen cannot become a customer. \nTo comply with US tax -FATCA- and other legislation relating to accounts held by US citizens or residents of the United States, the bank cannot authorize US citizens to subscribe to a free Bot bank! offer."
+    ],
+    "links": []
+  },
+  "become-a-customer-q9": {
+    "categoryTitle": "Become a customer",
+    "request": "Can I become a customer of Bot bank! with my partner?",
+    "responses": [
+      "Of course, you just need to open a joint account."
+    ],
+    "links": []
+  },
+  "become-a-customer-q10": {
+    "categoryTitle": "Become a customer",
+    "request": "What happens if I do not have a place of residence in my own name -because I am a student, for example-?",
+    "responses": [
+      "All of your documents, your bank card and your PIN code, etc., will be sent to your legal address."
+    ],
+    "links": []
+  },
+  "become-a-customer-q11": {
+    "categoryTitle": "Become a customer",
+    "request": "Am I entitled to a free Bot bank! offer if I am a legal entity?",
+    "responses": [
+      "Sorry, the free Bot bank! offer and the free Bot4You offer is only available to individuals for their personal use."
+    ],
+    "links": []
+  },
+  "become-a-customer-q12": {
+    "categoryTitle": "Become a customer",
+    "request": "Where can I find my agreement contract?",
+    "responses": [
+      "Two possibilities: \n  - Either you received them by e-mail. \n  - Either you received them by mail.  \nIf you have lost or misplaced them, call the Bot Team on 01 23 45 67 8 Monday to Friday -7am to 10pm- and Saturday -9am to 5pm-."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ]
+  },
+  "become-a-customer-q13": {
+    "categoryTitle": "Become a customer",
+    "request": "I have not received my bank card or my PIN code, or  have lost the activation code for my card. What should I do?",
+    "responses": [
+      "You can contact the Bot Team by telephone on 01 23 45 67 8 Monday to Friday -7am to 10pm- and Saturday -9am to 5pm-."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ]
+  },
+  "become-a-customer-q14": {
+    "categoryTitle": "Become a customer",
+    "request": "Are there activation charges associated with the free Bot bank! offer?",
+    "responses": [
+      "No activation fee is required for the free Bot bank! offer nor for the free Bot4You offer."
+    ],
+    "links": []
+  },
+  "become-a-customer-q15": {
+    "categoryTitle": "Become a customer",
+    "request": "Are there user charges associated to the free Bot bank! offer or the free Bot4You offer ?",
+    "responses": [
+      "The vast majority of the transactions are free. However, there is a charge for certain transactions on your account and card, for example, cash withdrawal in a country outside of the Eurozone. For more information, please consult our price lists and terms and conditions. Internet connection and telephone charges are the customer's responsibility and depend on the rates of the customer's chosen operator."
+    ],
+    "links": [
+      {
+        "href": "/legal-notice/about-us",
+        "text": "our price lists and terms and conditions"
+      }
+    ]
+  },
+  "become-a-customer-q16": {
+    "categoryTitle": "Become a customer",
+    "request": "I would like to become a Bot bank! customer, but I'm already a Bank of the Test customer. What should I do?",
+    "responses": [
+      "You can convert your current Pack into Bot bank!, or subscribe to a whole new free Bot bank! offer or a Bot4You offer alongside your Pack. See the FAQ section for customers who already have a Bank of the Test account."
+    ],
+    "links": []
+  },
+  "become-a-customer-q17": {
+    "categoryTitle": "Become a customer",
+    "request": "I want to become a Bot bank! customer. What are the system requirements for my smartphone or tablet?",
+    "responses": [
+      "The app Bot bank! can be downloaded from the Google Play Store or the Apple App Store to an iPad or iPhone running iOS 6 or higher or an Android device running OS  2.4 or higher."
+    ],
+    "links": [
+      {
+        "href": "https://play.google.com/store/apps/details?id=com.bb.botbank",
+        "text": "the Google Play Store"
+      },
+      {
+        "href": "https://itunes.apple.com/be/app/bot-bank!-by-botbank-group/id642897716?l=en",
+        "text": "the Apple App Store"
+      }
+    ]
+  },
+  "become-a-customer-q18": {
+    "categoryTitle": "Become a customer",
+    "request": "Where can I find more information on the details of my agreement -such as the duration, terms and conditions,...-?",
+    "responses": [
+      "Refer to the \"About us\" section of this website."
+    ],
+    "links": [
+      {
+        "href": "/legal-notice/about-us",
+        "text": "About us"
+      }
+    ]
+  },
+  "become-a-customer-q19": {
+    "categoryTitle": "Become a customer",
+    "request": "Why do I need to provide an email address to become a customer of Bot bank!?",
+    "responses": [
+      "We need an email address for communication purposes. Some exchanges of information concerning the services we provide occur via email."
+    ],
+    "links": []
+  },
+  "become-a-customer-q20": {
+    "categoryTitle": "Become a customer",
+    "request": "Where can I find my account number?",
+    "responses": [
+      "You can find your account number on your bank card. If you are already a customer of Bank of the Test and you would like to convert your existing account, your account number will remain the same."
+    ],
+    "links": []
+  },
+  "become-a-customer-q21": {
+    "categoryTitle": "Become a customer",
+    "request": "Do I need a card reader?",
+    "responses": [
+      "Yes, every new Bot bank! customer receives a card reader. You need this card reader to access Bot bank! mobile services."
+    ],
+    "links": []
+  },
+  "become-a-customer-q22": {
+    "categoryTitle": "Become a customer",
+    "request": "Is there a minimum amount that must be transferred to start using my Bot Current Account?",
+    "responses": [
+      "No, there is no minimum amount that must be transferred to the account. However, we would advise you to have all of your income paid directly to your Bot Current Account, this will allow you to manage your income and expenditure whenever and wherever you want. Simply ask your employer or family allowance fund, etc., to have your income paid directly on your account."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "Bot Current Account"
+      }
+    ]
+  },
+  "become-a-customer-q23": {
+    "categoryTitle": "Become a customer",
+    "request": "Have further questions or need help?",
+    "responses": [
+      "Contact the Bot Team  on 01 23 45 67 8 Monday to Friday -7am to 10pm- and Saturday -9am to 5pm-."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ]
+  },
+  "what-is-bot-bank-q1": {
+    "categoryTitle": "What is Bot bank! ?",
+    "request": "What is Bot bank! ?",
+    "responses": [
+      "Bot bank! is the mobile brand of Bank of the Test.\nWe are offering you a new banking model and relationship which will give you greater independence. You can take advantage of the support from the Bot Team, a team of advisers who specialise in banking products and mobile technology.\nOur vision for mobile banking is very simple: a free offer for daily banking operations and attractive rates for any additional services, made possible by our mobile-only distribution system. Click here for more information."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      },
+      {
+        "href": "/legal-notice/about-us",
+        "text": "here"
+      }
+    ]
+  },
+  "what-is-bot-bank-q2": {
+    "categoryTitle": "What is Bot bank! ?",
+    "request": "Are my deposits protected?",
+    "responses": [
+      "Yes, don't worry. Your deposits are protected under Botlander legislation.\nYour savings with a Botlander bank are protected by the Botlander Protection Fund for Deposits and Financial Instruments. It is compulsory for banks to join this Fund; if your bank goes bankrupt, the Fund will reimburse deposits of up to EUR 100,000 per person."
+    ],
+    "links": []
+  },
+  "what-is-bot-bank-q3": {
+    "categoryTitle": "What is Bot bank! ?",
+    "request": "What does ‘by Bank of the Test' mean?",
+    "responses": [
+      "Bot bank! is the mobile brand of Bank of the Test.\nBank of the Test is the market leader in Botland and part of the Botbank group, the number one bank in the Eurozone for deposits and one of the six most secure banks in the world according to Standard & Poor's. The group has more than 200,000 employees in 84 countries."
+    ],
+    "links": []
+  },
+  "what-is-bot-bank-q4": {
+    "categoryTitle": "What is Bot bank! ?",
+    "request": "What can I expect from Bot bank! if I need help?",
+    "responses": [
+      "We are introducing a new banking relationship that will give you greater independence while also providing you with support from the Bot Team of advisers who are specialists in banking products and mobile technology. You can contact the Bot Team by filling in the form in the app Bot bank! or the contact form on the Bot bank! website or by telephone on 01 23 45 67 8 from 7am to 10pm Monday to Friday and 9am to 5pm on Saturday."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      },
+      {
+        "href": "https://www.botbank.distributionlab.com/say-bot#_Questions_",
+        "text": "contact form"
+      }
+    ]
+  },
+  "what-is-bot-bank-q5": {
+    "categoryTitle": "What is Bot bank! ?",
+    "request": "Where can I find more information about your terms and conditions?",
+    "responses": [
+      "In the section \"About us\" on the Bot bank! website, where you will also find the pre-contractual information about the products and services offered by Bot bank!, as well as the terms and conditions."
+    ],
+    "links": [
+      {
+        "href": "/legal-notice/about-us",
+        "text": "About us"
+      }
+    ]
+  },
+  "what-is-bot-bank-q6": {
+    "categoryTitle": "What is Bot bank! ?",
+    "request": "Can I visit a branch of Bank of the Test if I have questions about my Bot Current Account?",
+    "responses": [
+      "We're like you, mobile first! But mobile does not mean that we do not give advice. That is why Bot bank! has foreseen the Bot Team by your side, a team of experts in banking products and mobile technologies. You can contact the Bot Team by phone at 01 23 45 67 8 from Monday to Friday -7am to 10pm- and Saturday -9am to 5pm-.  \nHowever our youngest customers -holder of a Bot4You Current Account- can go whenever they want in a Bank of the Test agency."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ]
+  },
+  "what-is-bot-bank-q7": {
+    "categoryTitle": "What is Bot bank! ?",
+    "request": "Does Bot bank! comply with current Botlander legislation?",
+    "responses": [
+      "Bank of the Test is subject to prudential supervision by the National Bank of Botland, Botville Boulevard 14, 1000 Botville, Botland and to supervision in respect of investor and consumer protection by the Financial Services and Markets Authority -FSMA-, Botville Boulevard 16, 1000 Botville, Botland. It is authorised as an insurance agent under FSMA number 00000A."
+    ],
+    "links": []
+  },
+  "what-is-bot-bank-q8": {
+    "categoryTitle": "What is Bot bank! ?",
+    "request": "Can I use Bot bank! to make online purchases?",
+    "responses": [
+      "Bot bank! offers two perfect solutions for online payments: \n  - The Bot Credit card. \n  - The Bot Prepaid card.  \nBut we go even further by offering a 100% virtual prepaid card exclusively designed for online shopping."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-credit-card",
+        "text": "The Bot Credit card"
+      },
+      {
+        "href": "/our-offer/the-bot-prepaid-card",
+        "text": "The Bot Prepaid card"
+      }
+    ]
+  },
+  "what-is-bot-bank-q9": {
+    "categoryTitle": "What is Bot bank! ?",
+    "request": "What is meant by simpler and more transparent service at Bot bank!?",
+    "responses": [
+      "Simple means an application that is easy to download and to use that allows you to: \n  - Carry out all your daily operations. \n  - Follow the evolution of your account and the expenses incurred with your Bot Credit card. \n  - Subscribe to new products -savings accounts, insurance, credit ...-.  \nBut simplicity with Bot bank! goes even further. It is present in the design of our products that are created to meet the needs of urban and mobile clients."
+    ],
+    "links": []
+  },
+  "already-bank-of-the-test-client--q1": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "I want to convert my Bank of the Test current account into a Bot Current Account. What do I need to do?",
+    "responses": [
+      "It's very simple: \n  1. Download the app Bot bank! -available on the App Store and Google Play-. \n  2. Click on \"login\". \n  3. Enter your Bank of the Test customer number  and your Bank of the Test card number. \nYou will then have the option to convert your Bank of the Test account into a Bot Current Account."
+    ],
+    "links": [
+      {
+        "href": "https://itunes.apple.com/be/app/bot-bank!-by-botbank-group/id642897716?l=en",
+        "text": "the App Store"
+      },
+      {
+        "href": "https://play.google.com/store/apps/details?id=com.bb.botbank",
+        "text": "Google Play"
+      },
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "Bot Current Account"
+      }
+    ]
+  },
+  "already-bank-of-the-test-client--q2": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "I want to convert my Bank of the Test account into a Bot4You account. What do I need to do?",
+    "responses": [
+      "Contact the Bot Team on 01 23 45 67 8 Monday to Friday -7am to 10pm- and Saturday -9am to 5pm-."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ]
+  },
+  "already-bank-of-the-test-client--q3": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "I would like to open a Bot Current Account, or a Bot4You Current Account, alongside my Bank of the Test current account. What do I need to do?",
+    "responses": [
+      "It's very simple: \n  1. Download the app Bot bank! -available on the App Store and Google Play-. \n  2. Click on \"login\". \n  3. Enter your Bank of the Test customer number  and your Bank of the Test card number. \nYou will then have the option to convert your Bank of the Test account into a Bot Current Account or a Bot4You Current Account."
+    ],
+    "links": [
+      {
+        "href": "https://itunes.apple.com/be/app/bot-bank!-by-botbank-group/id642897716?l=en",
+        "text": "App Store"
+      },
+      {
+        "href": "https://play.google.com/store/apps/details?id=com.bb.botbank",
+        "text": " Google Play"
+      }
+    ]
+  },
+  "already-bank-of-the-test-client--q4": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "Can I convert the Bank of the Test Pack that I hold jointly with my partner, into a free Bot bank! offer with a sole account holder?",
+    "responses": [
+      "This Bank of the Test Pack cannot be converted into a free Bot bank! offer. Packs with joint account holders can only be converted into a free Bot bank! offer with joint account holders and Packs with a sole account holder can only be converted into a free Bot bank! offer with a sole account holder."
+    ],
+    "links": []
+  },
+  "already-bank-of-the-test-client--q5": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "Is it possible to have a free Bot bank! offer, or a free Bot4You offer, and a Bank of the Test Pack at the same time?",
+    "responses": [
+      "It is entirely possible as long as the accounts are separate. The same account cannot be opened under both the Bot bank! and Bank of the Test brands."
+    ],
+    "links": []
+  },
+  "already-bank-of-the-test-client--q6": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What happens to my Traditional Savings Account and my Bank of the Test Premium Online Savings Account?",
+    "responses": [
+      "Nothing will change for you. There will be no changes to your savings accounts and they will continue to be free of charge."
+    ],
+    "links": []
+  },
+  "already-bank-of-the-test-client--q7": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What will change for me?",
+    "responses": [
+      "By becoming a Bot bank! customer, you are choosing simple, clear and intuitive mobile solutions. \nYou have two options:\n \n- The first: you subscribe to the free Bot bank! offer and become a new Bot bank! customer. You benefit from the support of the Bot Team, a team of experts in banking products and mobile technology. \n- The second: you convert your Bank of the Test Pack into a free Bot bank! offer or a free Bot4You offer. You need to decide if you want to keep or remove certain services included in Bank of the Test packs, and which are not available in the free Bot bank! offer. Services that you keep will be charged.  \nBefore making any decision, it is important to start the simulation in the app to measure the exact impact of a conversion. \nSome services can not be maintained because they are not available in the free Bot bank! offer or the free Bot4You offer."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ]
+  },
+  "already-bank-of-the-test-client--q8": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What will change for my Bank of the Test current account if I convert it a free Bot bank! offer?",
+    "responses": [
+      "You keep your existing account number. An overview of your transactions is available via the app Bot bank!, with 6 months of records for your account. You can obtain paper account statements from the Bot Team, but you can also always view your account statements via your PC banking agreement. The special account interest terms are no longer valid, but you benefit from the current rates on your Bot Current Account. Your in-credit interest will change."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "already-bank-of-the-test-client--q9": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What will change for my Bank of the Test current account if I convert it to a free Bot4You offer?",
+    "responses": [
+      "You keep your existing account number. The summary of transactions is available via the app Bot bank! with a six month history. You can receive paper account statements from the Bot Team or via the Bank of the Test Self Banking, but your statements are also always available via your PC banking contract. The special conditions of the account are cancelled, but you benefit from the rates prevailing on the Bot Current Account. Your interest rate will be changed."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "already-bank-of-the-test-client--q10": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What will change for my bank card?",
+    "responses": [
+      "If you open a new free Bot bank! offer, you will receive a new Bot Bank card and a new PIN code. If you are converting your existing account, you will be sent a new bank card but you will keep your current PIN code. The card cannot be customised. The card will still provide access to self-service banking. It is possible to withdraw money outside of Europe on request. The Proton function is still available. To assess the full impact of converting your Bank of the Test pack into Bot bank!, run the simulation available in the app Bot bank!."
+    ],
+    "links": []
+  },
+  "already-bank-of-the-test-client--q11": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What will change for my standard credit card or my Gold card?",
+    "responses": [
+      "If you decide to convert your Bank of the Test Pack into Bot bank!, you can choose to keep your existing credit cards; they will be linked to your Bot Current Account or Bot4You Current Account and have a per card pricing -please see price list-. The app Bot bank! includes an overview of your credit card transactions."
+    ],
+    "links": [
+      {
+        "href": "[documents|OpenAccessDataProvider]117bb4c7-20f2-651f-a85d-ff000053b17b",
+        "text": "price list"
+      }
+    ]
+  },
+  "already-bank-of-the-test-client--q12": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What will change for the introduction of my transactions if I convert my account Bank of the Test Current Account Bot?",
+    "responses": [
+      "Access to your Bot Current Account will be through the app Bot bank! or through the Bot Team."
+    ],
+    "links": [
+      {
+        "href": "/the-app",
+        "text": "app Bot bank"
+      },
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "already-bank-of-the-test-client--q13": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What will change for the introduction of my transactions if I convert my account Bank of the Test Current Account Bot4You?",
+    "responses": [
+      "Access to your Bot Current Account will be through the app Bot bank!,  through the Bot Team or through the Bank of the Test agency network."
+    ],
+    "links": [
+      {
+        "href": "/the-app",
+        "text": "app Bot bank!"
+      },
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ]
+  },
+  "already-bank-of-the-test-client--q14": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What will change for \"paper\" transfers and cash withdrawals?",
+    "responses": [
+      "Bot bank! is only available online via a smartphone or tablet. Therefore, you can realize your transfers through the app Bot bank! or at a Bank of the Test ATM. It is not possible, for the beneficiaries of the free Bot bank! offer -those who are over 28- to carry out manual transactions, over-the-counter withdrawals or paper transfers. The Bot4You clients -who are under 28 years old-, may perform manual transactions, withdrawals at Bank of the Test or paper transfers."
+    ],
+    "links": []
+  },
+  "already-bank-of-the-test-client--q15": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What will change for my securities account and my securities account insurance?",
+    "responses": [
+      "It is not possible to open a securities account with Bot bank!, but you can keep your Bank of the Test securities account and securities account insurance. These services will be charged separately -please see the price list-."
+    ],
+    "links": [
+      {
+        "href": "https://www.botbank.distributionlab.com/docs/default-source/Products/EN/bot-bank---list-of-fees.pdf?sfvrsn=0",
+        "text": "the price list"
+      }
+    ]
+  },
+  "already-bank-of-the-test-client--q16": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "What will change for the bonus service?",
+    "responses": [
+      "Bot bank! does not offer a bonus service."
+    ],
+    "links": []
+  },
+  "already-bank-of-the-test-client--q17": {
+    "categoryTitle": "Already Bank of the Test client ?",
+    "request": "Bot bank! is the perfect solution for my daily banking needs. Can I contact the Bot Team about the other financial products that I subscribed for with Bank of the Test?",
+    "responses": [
+      "The Bot Team is dedicated entirely to answering your questions about the Bot bank! service. If you need help with your Bank of the Test products, there are several options available to you: visit the Bank of the Test website, refer to your PC banking or Easy banking app, go to a Bank of the Test branch or call the Contact Centre on 01 23 45 67 8."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      },
+      {
+        "href": "/our-offer",
+        "text": "Bot bank! service"
+      }
+    ]
+  },
+  "support-and-help-q1": {
+    "categoryTitle": "Support and help",
+    "request": "My card doesn't work. What should I do?",
+    "responses": [
+      "Call the Bot Team and they will resolve the issue. You can contact the Bot Team by filling out the form in the app Bot bank! or the contact form on the Bot bank! website -contact section- or by phone on 01 23 45 67 8 Monday to Friday from 7h to 22h, Saturday from 9h to 17h."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "contact section"
+      }
+    ]
+  },
+  "support-and-help-q2": {
+    "categoryTitle": "Support and help",
+    "request": "My card has been swallowed by an ATM. What should I do?",
+    "responses": [
+      "Call the Bot Team, where our advisors will ensure this problem is resolved."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ]
+  },
+  "support-and-help-q3": {
+    "categoryTitle": "Support and help",
+    "request": "My address has changed. What should I do?",
+    "responses": [
+      "Just call the Bot Team! You can contact them by phone on 01 23 45 67 8 Monday to Friday from 7h to 22h, Saturday from 9h to 17h."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ]
+  },
+  "support-and-help-q4": {
+    "categoryTitle": "Support and help",
+    "request": "How can I contact the Bot Team and is it free to do so?",
+    "responses": [
+      "Support from the Bot Team is included in the Bot bank! service and is completely freeof charge -excluding the cost of getting in touch-. You can contact the Bot Team by filling out the form in the app Bot bank! or the contact form on the Bot bank! website or by phone on 01 23 45 67 8 Monday to Friday from 7h to 22h, Saturday from 9h to 17h."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ]
+  },
+  "support-and-help-q5": {
+    "categoryTitle": "Support and help",
+    "request": "I have changed my email address. What should I do?",
+    "responses": [
+      "Call the Bot Team and they will confirm the change of email address. You can contact the Bot Team by  by phone on 01 23 45 67 8 Monday to Friday from 7h to 22h, Saturday from 9h to 17h."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team "
+      }
+    ]
+  },
+  "support-and-help-q6": {
+    "categoryTitle": "Support and help",
+    "request": "For which devices and browsers is the Bot bank! web site optimised?",
+    "responses": [
+      "This web site is optimised for the following devices:\n \n- iPhone / iPad: iOS 6 and up\n- Android: 2.3 and up\n- Windows: XP SP2 and up\n- Mac OS: OS 10.8\n \nThis web site is optimised for the following browsers:\n \n- Google Chrome: 23 and up\n- Mozilla Firefox 17 and up\n- Internet Explorer: 9 and up\n- Safari: 5 and up"
+    ],
+    "links": []
+  },
+  "product-services-q1": {
+    "categoryTitle": "Product & Services",
+    "request": "What is Bot4You?",
+    "responses": [
+      "Bot4You is the dedicated Bot bank offer for the under 28. The basic offer includes: \n- A free Bot4You Current Account. \n- A Bot4You Bank card per holder and per account -maximum 2-. \n- Access to the app Bot bank!, The Bot Team and the Bank of the Test branches. \n- Free advice from the Bot Team 83h/week. \n\nIn addition, upon request, you also enjoy: \n- A free Bot Prepaid card -physical version-. \n- A Bot4You Savings Account  with attractive rates. \n- The Bot Credit card * free for one year -after 50% off until you turn 28-. \n\n* Subject to approval of your application."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q2": {
+    "categoryTitle": "Product & Services",
+    "request": "What are the conditions to subscribe to the Bot4You offer?",
+    "responses": [
+      "- Being a physical person. \n- Legally competent. \n- Minimum age: 18 years. \n- Maximum age upon opening: 27 years and nine months \n- Account holder: maximum two co-holders as of 18 years old. \n- Maximum two Bot4You accounts."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q3": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I access my account?",
+    "responses": [
+      "Through the app Bot bank! available for free download on Google Play or the App Store. \nYou can also go to a Bank of the Test branch to benefit from expert advice."
+    ],
+    "links": [
+      {
+        "href": "/the-app",
+        "text": "app Bot bank!"
+      },
+      {
+        "href": "https://play.google.com/store/apps/details?id=com.bb.botbank",
+        "text": "Google Play"
+      },
+      {
+        "href": "https://itunes.apple.com/be/app/bot-bank!-by-botbank-group/id642897716?l=en",
+        "text": "App Store"
+      }
+    ],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q4": {
+    "categoryTitle": "Product & Services",
+    "request": "What happens when I turn 28?",
+    "responses": [
+      "The Bot4You Current Account is converted into the banking option that fits most to your habits, needs and desires.  \nBot bank! informs you at least two months before, and you obviously have the opportunity to choose another offer than the one suggested. \nIf you have subscribed to Bot4You Current Account for two, it is converted when the youngest holder reaches the age of 28."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q5": {
+    "categoryTitle": "Product & Services",
+    "request": "What are the spending limits for the Bot4You Bank card?",
+    "responses": [
+      "The Bot4You Bank card spending limit is 625€ per transaction and per day at the ATM -maximum 1,250 € per week- and 2,500€  per week for retailers."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q6": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I request my free Bot Prepaid card?",
+    "responses": [
+      "It's very simple, just make a request by calling the Bot Team at 01 23 45 67 8 -Monday to Friday from 7am to 10pm and Saturday from 9am to 5pm- or in the app Bot bank! in the 'Add Items' link. The card is only available to Bot bank! customers. \nNot yet a customer? Visit www.botbank.distributionlab.com the site, click \"Join Bot\" and sign up in less than four minutes!"
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      },
+      {
+        "href": "http://www.botbank.distributionlab.com",
+        "text": "www.botbank.distributionlab.com"
+      },
+      {
+        "href": "/join-hello",
+        "text": "Join Bot"
+      }
+    ],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q7": {
+    "categoryTitle": "Product & Services",
+    "request": "A free Bot Prepaid card alright, but are there user fees?",
+    "responses": [
+      "Only withdrawals and payments outside the Eurozone that incur expenses: \n- Withdrawals: 0.30% of the amount + 2.86€ -+1.60% exchange fees-. \n- Payments: 1.21% -+1.63% exchange fees- \nReplacing the lost or stolen card costs 8€."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q8": {
+    "categoryTitle": "Product & Services",
+    "request": "I have questions about using my Bot Prepaid card.  Where can I find answers?",
+    "responses": [
+      "All the answers to your questions about the Bot Prepaid card can be found here."
+    ],
+    "links": [
+      {
+        "href": "/faq/faq-detail/?category=product-services&its=how-do-i-order-my-bot-prepaid-card-",
+        "text": "here"
+      }
+    ],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q9": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I open my Bot4You Savings Account?",
+    "responses": [
+      "Request it in the app Bot bank!\nIn the \"My Accounts\", click the \"Add Items\" icon."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q10": {
+    "categoryTitle": "Product & Services",
+    "request": "What are the interest rates of my Bot4You Savings account?",
+    "responses": [
+      "You will find all details of interest rates in the price list."
+    ],
+    "links": [
+      {
+        "href": "https://www.botbank.distributionlab.com/docs/default-source/Products/EN/bot-bank---list-of-fees.pdf?sfvrsn=0",
+        "text": "price list"
+      }
+    ],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q11": {
+    "categoryTitle": "Product & Services",
+    "request": "My Bot4You Bank card is valid five years. What happens when it expires?",
+    "responses": [
+      "You will receive a new Bot4You Bank card valid until your 28 years old."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q12": {
+    "categoryTitle": "Product & Services",
+    "request": "Do I benefit from any advantage on the Bot Credit card thanks to Bot4You?",
+    "responses": [
+      "Yes, for Bot4You clients, the Bot Credit card is free for the first year and then discounted  at 50% up to 28 years old. \nMaximum one Bot Credit card per holder and per account."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-credit-card",
+        "text": "Bot Credit card"
+      }
+    ],
+    "subCategoryTitle": "Bot4You"
+  },
+  "product-services-q13": {
+    "categoryTitle": "Product & Services",
+    "request": "Is it possible to go overdrawn?",
+    "responses": [
+      "Yes, it's possible thanks to the Direct reserve.  \nIf your application for the Direct reserve is accepted, the balance of your Bot Current account can overdraft up to €-1.250."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/direct-reserve",
+        "text": "Direct reserve"
+      }
+    ],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q14": {
+    "categoryTitle": "Product & Services",
+    "request": "What is the debit interest rate?",
+    "responses": [
+      "You will find information on interest rates in our price list."
+    ],
+    "links": [
+      {
+        "href": "https://www.botbank.distributionlab.com/docs/default-source/Products/EN/bot-bank---list-of-fees.pdf?sfvrsn=0",
+        "text": "price list"
+      }
+    ],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q15": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I transfer funds to an account abroad?",
+    "responses": [
+      "Yes, but only in the SEPA -Single European Payments Area-. If you were already a Bank of the Test customer, you can make transfers outside the SEPA."
+    ],
+    "links": [],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q16": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I make transfers in a foreign currency?",
+    "responses": [
+      "Yes, you can make transfers in a foreign currency but need to contact the Bot Team, and you cannot make foreign currency deposits on your Bot Current Account."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      },
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "Bot Current Account"
+      }
+    ],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q17": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I use cheques at Bot bank!?",
+    "responses": [
+      "No, cheques are hardly used anymore and are therefore no longer available at Bot bank!"
+    ],
+    "links": [],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q18": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I transfer money into my Bot Current Account?",
+    "responses": [
+      "By having your income paid directly into your account, making a transfer from another bank account or via Botbank Mobile Payments. If you were already a customer at Bank of the Test, you can also deposit money via Bank of the Test ATMs."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/botbank-mobile-payments",
+        "text": "Botbank Mobile Payments"
+      }
+    ],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q19": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I deposit cash into a Bot bank! account using a Bank of the Test ATM?",
+    "responses": [
+      "No, this method of supplying your Bot Current Account is not available. It is however available if you are a Bank of the Test customer benefitting from this option."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "Bot Current Account"
+      }
+    ],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q20": {
+    "categoryTitle": "Product & Services",
+    "request": "Where can I find my IBAN account number?",
+    "responses": [
+      "On your bank card."
+    ],
+    "links": [],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q21": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I close my bank account?",
+    "responses": [
+      "Call the Bot Team at 01 23 45 67 8 and they will let you know what to do."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q22": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I get an overview of all my Bot bank! accounts?",
+    "responses": [
+      "You can get an overview of all of your Bot bank! accounts in the app Bot bank!, once you have created your profile."
+    ],
+    "links": [],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q23": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I use cash dispensers?",
+    "responses": [
+      "Of course. You can use Bank of the Test cash dispensers as well as those of other banks. You can use them for cash withdrawals and to change your PIN code."
+    ],
+    "links": [],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q24": {
+    "categoryTitle": "Product & Services",
+    "request": "Does Bot bank! offer joint accounts?",
+    "responses": [
+      "Yes, you may hold a maximum of two joint accounts."
+    ],
+    "links": [],
+    "subCategoryTitle": "Transactions"
+  },
+  "product-services-q25": {
+    "categoryTitle": "Product & Services",
+    "request": "How can I open my Traditional Savings Account?",
+    "responses": [
+      "Through the app Bot bank! In the \"My Accounts\" menu, click on the \"Add Products\" icon.  \nPlease read the \"Essential information for savers\" before opening your account."
+    ],
+    "links": [
+      {
+        "href": "https://www.botbank.distributionlab.com/docs/default-source/Products/EN/traditional-savings-account---essential-information-for-savers.pdf?sfvrsn=0",
+        "text": "Essential information for savers"
+      }
+    ],
+    "subCategoryTitle": "Savings"
+  },
+  "product-services-q26": {
+    "categoryTitle": "Product & Services",
+    "request": "How can I open my Premium Online Savings Account ?",
+    "responses": [
+      "Through the app Bot bank! In the \"My Accounts\" menu, click on the \"Add Products\" icon.  \nPlease read the \"Essential information for savers\" before opening your account."
+    ],
+    "links": [
+      {
+        "href": "https://www.botbank.distributionlab.com/docs/default-source/Products/EN/premium-online-savings-account---essential-information-for-savers.pdf?sfvrsn=0",
+        "text": "Essential information for savers"
+      }
+    ],
+    "subCategoryTitle": "Savings"
+  },
+  "product-services-q27": {
+    "categoryTitle": "Product & Services",
+    "request": "What are the interest rates on my Traditional Savings Account?",
+    "responses": [
+      "You'll find information on interest rates in our price list."
+    ],
+    "links": [
+      {
+        "href": "https://www.botbank.distributionlab.com/docs/default-source/Products/EN/bot-bank---list-of-fees.pdf?sfvrsn=0",
+        "text": "our price list"
+      }
+    ],
+    "subCategoryTitle": "Savings"
+  },
+  "product-services-q28": {
+    "categoryTitle": "Product & Services",
+    "request": "What are the interest rates on my Premium Online Savings Account?",
+    "responses": [
+      "You'll find information on interest rates in our price list."
+    ],
+    "links": [
+      {
+        "href": "https://www.botbank.distributionlab.com/docs/default-source/Products/EN/bot-bank---list-of-fees.pdf?sfvrsn=0",
+        "text": "our price list"
+      }
+    ],
+    "subCategoryTitle": "Savings"
+  },
+  "product-services-q29": {
+    "categoryTitle": "Product & Services",
+    "request": "When is the interest on my savings account paid?",
+    "responses": [
+      "The base rate is paid annually on January 1st. The acquired loyalty bonus is paid quarterly -01/01, 01/04, 01/07, 01/10-."
+    ],
+    "links": [],
+    "subCategoryTitle": "Savings"
+  },
+  "product-services-q30": {
+    "categoryTitle": "Product & Services",
+    "request": "Where can I see the amount of interest received?",
+    "responses": [
+      "The information will appear in your transaction overview as soon as the interest is paid. The amount paid is stated there."
+    ],
+    "links": [],
+    "subCategoryTitle": "Savings"
+  },
+  "product-services-q31": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I subscribe to Digital Protect?",
+    "responses": [
+      "Through the app Bot bank! In the \"My Accounts\" menu, click on the \"Add Products\" icon."
+    ],
+    "links": [],
+    "subCategoryTitle": "Digital Protect"
+  },
+  "product-services-q32": {
+    "categoryTitle": "Product & Services",
+    "request": "What is Digital Protect?",
+    "responses": [
+      "It is an insurance policy to protectall your mobile devises that are less than 5 years old. The Digital Protect insurance policy covers all of the mobile devices in your home, without you having to identify them in advance. Secure your mobile devices today."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/digital-protect",
+        "text": "Digital Protect"
+      }
+    ],
+    "subCategoryTitle": "Digital Protect"
+  },
+  "product-services-q33": {
+    "categoryTitle": "Product & Services",
+    "request": "What does Digital Protect cover? Here are a few examples...",
+    "responses": [
+      "Digital Protect insurance provides cover in the event of aggravated theft, accidental damage or fraudulent use. Aggravated theft means a theft with assault or a burglary that takes place outside your place of residence -a main or secondary residence or a holiday let- and results in the theft of the device.\n \nThis insurance covers all devices under 5 years old owned by the policyholder and anyone living as part of their household, with no limit on the number of devices and no requirement for prior identification of the insured devices.\n \nHere are a few examples:\nYou fall while skiing and your telephone, which was in your pocket, is damaged. You are mugged on your way from home to the subway station. Your child trips over a stone and falls, and his or her games console is damaged. Your dog chews your mp3 player. Digital Protect covers all these unpleasant occurrences."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/digital-protect",
+        "text": "Digital Protect "
+      }
+    ],
+    "subCategoryTitle": "Digital Protect"
+  },
+  "product-services-q34": {
+    "categoryTitle": "Product & Services",
+    "request": "Which devices are covered by Digital Protect?",
+    "responses": [
+      "A long list of devices are covered, including mobile devices, games consoles, tablets and digital cameras. Please see the list below. \n- Laptop: notebook, ultra-portable laptop, touch-screen tablet, pen tablet and netbook. \n- Portable device: personal digital assistant -PDA-, digital audio/video player -mp3/mp4-, handheld games console, portable satellite navigation system -portable GPS unit-, dictaphone, portable photo printer and e-reader. \n- Image and video: digital photo device, digital camcorder, portable video projector and portable DVD player -with no TV tuner-. \n- Portable telephone: mobile phone, smartphone and any other device intended principally for telephone communication which does not require a cable connection to a power source. The telephone must contain a SIM -Subscriber Identity Module- card which has been allocated a number reserved for mobile telephone services."
+    ],
+    "links": [],
+    "subCategoryTitle": "Digital Protect"
+  },
+  "product-services-q35": {
+    "categoryTitle": "Product & Services",
+    "request": "I already have a home insurance at Bank of the Test. Do I need Digital Protect?",
+    "responses": [
+      "If you have Top Home insurance from AG Insurance with extended cover against theft, you are already covered in the event of a theft that takes place outside the home. However, Digital Protect insurance provides you with a more complete cover for your devices, including cover against the risk of material damage and fraudulent use of your mobile phone."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/digital-protect",
+        "text": "Digital Protect"
+      }
+    ],
+    "subCategoryTitle": "Digital Protect"
+  },
+  "product-services-q36": {
+    "categoryTitle": "Product & Services",
+    "request": "How do you report a claim under Digital Proctect ?",
+    "responses": [
+      "If you are in Botland, then you should submit your claim within 48hrs by contacting us on the toll free number 0800 25 244, from Monday to Friday, from 8h30 to 17h. \nIf you are abroad, then you have to submit your claim within 48 hours by e-mail to claims.botbank.distributionlab.com with the following information: \n- Name of the insured person and the contract number -if you have it with you-; - Type of claim: external damage or theft; - Description of the damaged device -brand, model, price and date of purchase-; - Date of your return to Botland.  \nIf your mobile phone is stolen abroad, you must report this to local police and obtain the report document. The insurance company will then send you by email the the documents to be completed and attached."
+    ],
+    "links": [],
+    "subCategoryTitle": "Digital Protect"
+  },
+  "product-services-q37": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I request a Direct reserve?",
+    "responses": [
+      "There are two ways: \n- In the app Bot bank! make the request on the screen \"Add products\". The Bot Team will then send you the documents required to complete your request. \n- Call the Bot Team at 01 23 45 67 8 - Monday to Friday from 7h to 22h and Saturday from 9h to 17h - ."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Direct reserve"
+  },
+  "product-services-q38": {
+    "categoryTitle": "Product & Services",
+    "request": "What are the terms for the Direct Reserve?",
+    "responses": [
+      "The Direct reserve does not have a fixed term. It has an indefinite term. It terminates when the account to which it is linked is closed, or if the account holder decides to terminate the Direct reserve arrangement.\n \nThe only timescale linked to the Direct reserve is the requirement to clear the debit balance on the account every 90 days."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/direct-reserve",
+        "text": "Direct reserve"
+      }
+    ],
+    "subCategoryTitle": "Direct reserve"
+  },
+  "product-services-q39": {
+    "categoryTitle": "Product & Services",
+    "request": "How do you collect the monthly interest in respect of the Direct reserve amounts used?",
+    "responses": [
+      "The interest is collected automatically every month from the Bot Current Account to which the Direct reserve is linked. The interest is only calculated on the amounts withdrawn, that is, on the negative amount in the account."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "the Bot Current Account"
+      },
+      {
+        "href": "/our-offer/direct-reserve",
+        "text": "the Direct reserve"
+      }
+    ],
+    "subCategoryTitle": "Direct reserve"
+  },
+  "product-services-q40": {
+    "categoryTitle": "Product & Services",
+    "request": "When do you collect the monthly interest in respect of the Direct reserve amounts used?",
+    "responses": [
+      "The interest is collected at the beginning of the month following the one in which the Direct reserve is used, with a value date of the 1st of the month. The interest is taken from the Bot Current Account to which the Direct reserve is linked."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "the Bot Current Account"
+      },
+      {
+        "href": "/our-offer/direct-reserve",
+        "text": "the Direct reserve"
+      }
+    ],
+    "subCategoryTitle": "Direct reserve"
+  },
+  "product-services-q41": {
+    "categoryTitle": "Product & Services",
+    "request": "As a joint holder, can I apply for an additional Direct reserve?",
+    "responses": [
+      "No, the Direct reserve is linked to a Bot Current account and not to an account holder. Only one Direct reserve can therefore be linked to a Bot Current Account."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/direct-reserve",
+        "text": "the Direct reserve"
+      },
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "Bot Current account"
+      }
+    ],
+    "subCategoryTitle": "Direct reserve"
+  },
+  "product-services-q42": {
+    "categoryTitle": "Product & Services",
+    "request": "How and when can I close the Direct reserve?",
+    "responses": [
+      "The holder of the account to which the Direct reserve is linked can terminate his/her Direct reserve in two ways:\n- By closing the Bot Current account to which the Direct reserve is linked,\n- By requesting that the Direct reserve be closed, by telephoning, emailing or writing to the Bot team.  \nThe notice period is 1 month.\n \nThe Bank can also decide to terminate a Direct reserve arrangement in the event that the contractual obligations are not met. In that eventuality it will send a registered letter to the account holder. In this case the notice period is 2 months."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "the Bot Current account"
+      },
+      {
+        "href": "/our-offer/direct-reserve",
+        "text": "the Direct reserve"
+      }
+    ],
+    "subCategoryTitle": "Direct reserve"
+  },
+  "product-services-q43": {
+    "categoryTitle": "Product & Services",
+    "request": "What happens if the negative balance in my account exceeds the €1,250 of the Direct reserve?",
+    "responses": [
+      "Your account will then have an unauthorised excess. The difference between the negative balance and the maximum limit of the Direct reserve -€1,250- must be repaid as qucikly as possible. A higher debtor interest rate will apply to this difference: the Direct reserve interest rate increased by 10%."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/direct-reserve",
+        "text": "the Direct reserve"
+      }
+    ],
+    "subCategoryTitle": "Direct reserve"
+  },
+  "product-services-q44": {
+    "categoryTitle": "Product & Services",
+    "request": "What happens if the balance in my account is insufficient to pay the interest?",
+    "responses": [
+      "In this case, the interest will still be levied against your account and your account will then have an unauthorised excess. The difference between the negative balance and the maximum limit of the Direct reserve -€1,250- must be repaid as quickly as possible. A higher debtor interest rate will apply to this difference: the Direct reserve interest rate increased by 10%."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/direct-reserve",
+        "text": "the Direct reserve"
+      }
+    ],
+    "subCategoryTitle": "Direct reserve"
+  },
+  "product-services-q45": {
+    "categoryTitle": "Product & Services",
+    "request": "Is it possible to subscribe to a Direct reserve with an amount lower than €1,250?",
+    "responses": [
+      "Yes, provided that your application for a Direct reserve is accepted an amount of €250 can be offered."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/direct-reserve",
+        "text": "Direct reserve"
+      }
+    ],
+    "subCategoryTitle": "Direct reserve"
+  },
+  "product-services-q46": {
+    "categoryTitle": "Product & Services",
+    "request": "I have received a text message with an activation code. How do I use it?",
+    "responses": [
+      "As soon as you have open your account, we will send you your Bot Bank card and PIN code. To activiate your card, you will then have to make a telephone call and use the provided activation code."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Bank card"
+  },
+  "product-services-q47": {
+    "categoryTitle": "Product & Services",
+    "request": "I have lost my card / my card has been stolen. What should I do?",
+    "responses": [
+      "Call Card Stop immediately on 01 23 45 67 8, to prevent fraudulent use. Card Stop is available 24 hours a day, 7 days a week. Card Stop blocks the card to prevent fraudulent use. You should then call the Bot Team to order a new card. You can contact the Bot Team by filling out the form in the app Bot bank! or the contact form on the Bot bank! website -contact section- or by phone on 01 23 45 67 8 Monday to Friday from 7h to 22h, Saturday from 9h to 17h."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Bank card"
+  },
+  "product-services-q48": {
+    "categoryTitle": "Product & Services",
+    "request": "I would like to change my PIN code. What do I need to do?",
+    "responses": [
+      "Just go to an ATM."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Bank card"
+  },
+  "product-services-q49": {
+    "categoryTitle": "Product & Services",
+    "request": "In which countries can I use my card?",
+    "responses": [
+      "A quick look at this map will tell you."
+    ],
+    "links": [
+      {
+        "href": "/docs/default-source/FAQ/FR/maestro-cartepays",
+        "text": "map"
+      }
+    ],
+    "subCategoryTitle": "Bot Bank card"
+  },
+  "product-services-q50": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I use my bank card outside of Europe?",
+    "responses": [
+      "The protection of your payment methods and the security of your payments are very important to us. Together with most other Botlander banks, we have therefore decided to restrict the use of Maestro debit cards to Europe by default. It is therefore no longer possible, in principle, to use your bank card to withdraw money or to pay in shops and supermarkets in non-European countries.\n  \n Why these new rules?\n This measure aims to prevent fraudulent activity outside of Europe. However, the impact of the change remains limited as almost all Maestro transactions are carried out within Europe.  \n \nYou can request to temporarily activate the Maestro function outside Europe as long as your debit card does not expire within the next 3 months. \nContact the Bot Team or call 01 23 45 67 8 from 7 a.m. to 10 p.m., Monday to Friday and 9 a.m. to 5 p.m. on Saturday-. We advise you to do this well in advance: at least 3 working days before your departure."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Bank card"
+  },
+  "product-services-q51": {
+    "categoryTitle": "Product & Services",
+    "request": "SEPA. Yes, but what does it mean?",
+    "responses": [
+      "The acronym SEPA stands for the ‘Single European Payments Area'. Europe intends to create a unified payment area that offers a great number of advantages to private individuals and companies.  \nThe SEPA consists of:  \nAll the EU member states: Austria, Botland, Bulgaria, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France -including Guadeloupe, French Guiana, Martinique, Reunion, Mayotte and St. Pierre and Miquelon-, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal -including the Azores and Madeira-, Romania, Slovakia, Slovenia, Spain -including the Canary Islands, Ceuta and Melilla-, Sweden and the United Kingdom -including Gibraltar and Northern Ireland-.\n Five other European States: Iceland, Liechtenstein, Monaco, Norway and Switzerland."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Bank card"
+  },
+  "product-services-q52": {
+    "categoryTitle": "Product & Services",
+    "request": "As a customer of Bot bank!, are there any charges for using my card at an ATM, a payment terminal or abroad?",
+    "responses": [
+      "You can find the answers to those questions in the price list."
+    ],
+    "links": [
+      {
+        "href": "https://www.botbank.distributionlab.com/docs/default-source/Products/EN/bot-bank---list-of-fees.pdf?sfvrsn=0",
+        "text": "price list"
+      }
+    ],
+    "subCategoryTitle": "Bot Bank card"
+  },
+  "product-services-q53": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I apply for my Bot Credit card?",
+    "responses": [
+      "You simply need to apply using the app Bot bank! through the \"Add products\" screen. \nYou can also call the Bot Team at 01 23 45 67 8 -Monday to Friday 7h to 22h and Saturday from 9h to 17h-\nThis card is however only available for Bot bank! customers, subject to approval of your application. \n \nNot a customer yet? Go to www.botbank.distributionlab.com and click on \"Join Bot\" to register in less than 4 minutes!"
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      },
+      {
+        "href": "http://www.botbank.distributionlab.com",
+        "text": "www.botbank.distributionlab.com"
+      },
+      {
+        "href": "/join-hello",
+        "text": "Join Bot"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q54": {
+    "categoryTitle": "Product & Services",
+    "request": "Who is eligible for a Bot Credit card?",
+    "responses": [
+      "Anyone over the age of 18 who is a holder or joint holder of a Bot Current Account can apply a Bot Credit card -subject to approval of your application-."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "Bot Current Account"
+      },
+      {
+        "href": "/our-offer/the-bot-credit-card",
+        "text": "Bot Credit card"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q55": {
+    "categoryTitle": "Product & Services",
+    "request": "How many Bot Credit cards can I order?",
+    "responses": [
+      "You can order a maximum of 1 Bot Credit card per account holder and a maximum of 2 Bot Credit cards per Bot Current Account."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-credit-card",
+        "text": "Bot Credit card"
+      },
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "Bot Current Account"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q56": {
+    "categoryTitle": "Product & Services",
+    "request": "How soon will I receive my Bot Credit card after I've ordered it?",
+    "responses": [
+      "Your Bot Credit card and PIN will be with you by post within 7 working days -subject to approval of your application-. You will then need to activate your card by calling the Bot Team on 01 23 45 67 8."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q57": {
+    "categoryTitle": "Product & Services",
+    "request": "How much will my Bot Credit card cost?",
+    "responses": [
+      "The Bot Credit card costs €1.83 per month -or €22 per year-.  \nIf you subscribe to the Bot4You offer, then it's free the first year and then it’s 50% off until you turn 28."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-credit-card",
+        "text": "The Bot Credit card"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q58": {
+    "categoryTitle": "Product & Services",
+    "request": "What will happen to my Bank of the Test credit card when I become a Bot bank! customer?",
+    "responses": [
+      "When you become a Bot bank! customer, you have the opportunity to retain your old Bank of the Test credit card, as well as the advantages linked to it -insurance, Optiline, etc.-. The monthly service charge for your credit card may change. Therefore, please refer to our price list."
+    ],
+    "links": [
+      {
+        "href": "https://www.botbank.distributionlab.com/docs/default-source/Products/EN/bot-bank---list-of-fees.pdf?sfvrsn=0",
+        "text": "price list"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q59": {
+    "categoryTitle": "Product & Services",
+    "request": "How much will my Bank of the Test cards that are linked to a Bot Current Account cost?",
+    "responses": [
+      "The Visa or MasterCard Classic credit card linked to a Bot Current Account costs €1.83 per month. \nIf you subscribe to the Bot4You offer, then it's free the first year and then it’s 50% off until you turn 28.\n \nThe Visa or MasterCard Gold credit card linked to a Bot Current Account costs €3.83 per month."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "Bot Current Account"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q60": {
+    "categoryTitle": "Product & Services",
+    "request": "What is the monthly Bot Credit card limit?",
+    "responses": [
+      "The monthly spending limit for your Bot Credit card is €2,500 per month.\n \nThe limit for cash withdrawals at ATMs is €600 over 4-day periods"
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-credit-card",
+        "text": "Bot Credit card"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q61": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I increase or decrease the limits on my Bot Credit card?",
+    "responses": [
+      "It's not possible to increase or decrease the limits on your Bot Credit card."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-credit-card",
+        "text": "Bot Credit card"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q62": {
+    "categoryTitle": "Product & Services",
+    "request": "How long is my Bot Credit card valid for?",
+    "responses": [
+      "The Bot Credit card is issued for a period of 3 years, whether it is a new card or a renewal of an existing card."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-credit-card",
+        "text": "The Bot Credit card"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q63": {
+    "categoryTitle": "Product & Services",
+    "request": "What should I do if my Bot Credit card is lost or stolen?",
+    "responses": [
+      "Call CARD STOP immediately on 01 23 45 67 8 to avoid any improper usage. CARD STOP is available 7 days a week, 24 hours a day, and can order you a new card automatically after blocking the old one. Inform the police of the theft of your card within 24 hours. We will send your new card by post to your home address."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q64": {
+    "categoryTitle": "Product & Services",
+    "request": "What do I do if I forgot my Bot Credit card PIN?",
+    "responses": [
+      "If you forget your PIN, contact the Bot Team on 01 23 45 67 8."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q65": {
+    "categoryTitle": "Product & Services",
+    "request": "How does the \"Couponing Botbank\" loyalty programme work?",
+    "responses": [
+      "With the \"Couponing Botbank\" loyalty programme, you will receive a point for every transaction above €25 executed with your credit card, whether by a payment or by a money withdrawal in Botland or abroad. For 5 saved points, you will receive an \"Couponing Botbank\" discount voucher worth €5 which can be used at any of the programme's partners. Register with the programme straight away: www.couponing.botbank.distributionlab.com."
+    ],
+    "links": [
+      {
+        "href": "http://www.couponing.botbank.distributionlab.com",
+        "text": "www.couponing.botbank.distributionlab.com"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q66": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I use my Bot Credit card outside Botland?",
+    "responses": [
+      "Your Bot Credit card allows you to pay for your purchases and withdraw money at ATMs in Botland and abroad. You can also make secure payments over the internet.  \nHowever, for security reasons, the Bank can, in certain countries, apply some restrictions relating to the terms of use of your credit card. For example, if you travel to the United States, we recommend that you execute the first transaction using your PIN -at bank ATMs to withdraw money based on the current rates abroad-. Do not hesitate to contact the Bot Team on 01 23 45 67 8 if you would like more information about any possible usage restrictions that could be applied in these countries."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-credit-card",
+        "text": "Bot Credit card "
+      },
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q67": {
+    "categoryTitle": "Product & Services",
+    "request": "What charges are associated with using my Bot Credit card?",
+    "responses": [
+      "An overview of the charges for your Bot Credit can be found in our price list."
+    ],
+    "links": [
+      {
+        "href": "https://www.botbank.distributionlab.com/docs/default-source/Products/EN/bot-bank---list-of-fees.pdf?sfvrsn=0",
+        "text": "price list"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q68": {
+    "categoryTitle": "Product & Services",
+    "request": "How can I be certain that my payment over the internet is secure?",
+    "responses": [
+      "If you execute payments on a site displaying the Verified by Visa logo, that means the site meets Visa's security standards for online payments."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q69": {
+    "categoryTitle": "Product & Services",
+    "request": "When is my Bot Current Account debited to pay for the spending linked to my Bot Credit card?",
+    "responses": [
+      "The closure of transactions for the Bot Credit card always takes place on a fixed date at the end of the month. Your current account will always be debited 9 calendar days after this date. The usage limit will once again be fully available after the payment is registered."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-credit-card",
+        "text": "the Bot Credit card"
+      },
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "current account"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q70": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I cancel my Bot Credit card?",
+    "responses": [
+      "You can terminate your contract at any time free of charge, by registered letter and respecting a notice period of 1 month. For more information, contact the Bot Team on 01 23 45 67 8."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Credit card"
+  },
+  "product-services-q71": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I order my Bot Prepaid card?",
+    "responses": [
+      "To apply, go to the \"Add product\" screen in the app Bot bank! and select the Bot Prepaid card. \nYou can also call the Bot Team at 01 23 45 67 8 -Monday to Friday 7h to 22h and Saturday from 9h to 17h-\nThis card is only available for Bot bank! customers.\nNot a customer yet? Go to www.botbank.distributionlab.com and click on \"Join Bot\" to register in less than 4 minutes!"
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "the Bot Team"
+      },
+      {
+        "href": "http://www.botbank.distributionlab.com",
+        "text": "www.botbank.distributionlab.com "
+      },
+      {
+        "href": "/join-hello",
+        "text": "Join Bot"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q72": {
+    "categoryTitle": "Product & Services",
+    "request": "How to create a user account to use my Bot Prepaid card",
+    "responses": [
+      "Once you have submitted your application the Bot Team completes your application and you can create your User Account. Click on \"Create a User Account\" and enter your customer number and birth date. Then choose your password and security question."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q73": {
+    "categoryTitle": "Product & Services",
+    "request": "What is my User Account?",
+    "responses": [
+      "With your User Account, you can do the following: \nConsult the available balance \nReload your card \nFollow the history of your transactions, as well as the amounts available for payments not yet executed \nBlock your card and replace, for example, in case of loss, theft or damage. It is enacted, that you receive at home within 10 days a new card. Immediately \nResetting the PIN code if you have forgotten it. Within 5 days you will get the new PIN Delivery."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q74": {
+    "categoryTitle": "Product & Services",
+    "request": "How can I check the available amount on my card?",
+    "responses": [
+      "You can check your balance at any time at www.botbank.distributionlab.com. Go to Our Offer/ Bot Prepaid card, click the 'Manage your Prepaid card' button and then the 'Express balance' button.\n Save the link in your Favourites for quick access."
+    ],
+    "links": [
+      {
+        "href": "http://www.botbank.distributionlab.com",
+        "text": "www.botbank.distributionlab.com"
+      },
+      {
+        "href": "https://services.buyway.be/helloprepaid/solde_express.php?language=en",
+        "text": "Express balance"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q75": {
+    "categoryTitle": "Product & Services",
+    "request": "Where can I view the details of my transactions?",
+    "responses": [
+      "In your User Account under the heading ‘History'. You can view the details of your transactions from the past six months."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q76": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I top up the amount available on my Bot Prepaid card?",
+    "responses": [
+      "To top up your card, go to your User Account and click ‘Reload'. Then follow the instructions.\n Topping up your card is a free service free of Bot bank!"
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q77": {
+    "categoryTitle": "Product & Services",
+    "request": "Where can I use my Bot Prepaid card?",
+    "responses": [
+      "You can use your physical Bot Prepaid card anywhere in the world:\n •At all shops within the MasterCard network -more than 29 million around the world-.\n •At ATMs -more than 1,500,000 in the world-.\n •For all your online purchases.\n Your virtual Bot Prepaid card is for online purchases only. \n For a purchase or cash withdrawal which is not in euro, you pay a foreign exchange commission of 1.60 % of the transaction amount.\n These charges are always deducted from your current balance on the card."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-prepaid-card",
+        "text": "Bot Prepaid card"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q78": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I withdraw cash with my Bot Prepaid card?",
+    "responses": [
+      "Yes, you can withdraw money from all ATMs linked to the MasterCard network -more than 1,500,000 in the world-. The costs are € 3 per withdrawal. If the withdrawal is not in euro, there is a foreign exchange commission of 1.60 % of the transaction amount.\nThese charges are always deducted from your current balance on the card."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q79": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I recover the balance on my card when I cancel my card?",
+    "responses": [
+      "If you decide to cancel your card, the remaining balance is automatically transferred to your Bot Current Account.\n It is a service free of charge by Bot bank!"
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "Bot Current Account"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q80": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I transfer money from my Bot Prepaid card to another card?",
+    "responses": [
+      "No, this is only possible in case your card was lost or stolen and you ordered a new card. Then, the remaining balance will be automatically transferred from the old card to the new card."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q81": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I know whether my card is active?",
+    "responses": [
+      "You can see the status of your card in your User Account, under the heading 'My Bot Prepaid card'. If you encounter any problems using your card, you can always contact your Bot Team on 01 23 45 67 8, Monday to Friday from 7h to 22h and Saturday from 9h to 17h."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-prepaid-card",
+        "text": "My Bot Prepaid card"
+      },
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q82": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I change my PIN code?",
+    "responses": [
+      "No, the PIN code of your Bot Prepaid card cannot be changed."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-prepaid-card",
+        "text": "Bot Prepaid card"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q83": {
+    "categoryTitle": "Product & Services",
+    "request": "The PIN code of my card is blocked. What do I need to do?",
+    "responses": [
+      "Your card is blocked when you entered the wrong PIN code three times in a row. The PIN code can easily be reset by calling your Bot Team on 01 23 45 67 8, Monday to Friday from 7h to 22h and Saturdays from 9h to 17h."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q84": {
+    "categoryTitle": "Product & Services",
+    "request": "I have forgotten my PIN code. What do I need to do?",
+    "responses": [
+      "Go to your User Account, and click on 'My Bot Prepaid card', then choose ‘Resend your secret code’. You will receive your secret code -your PIN- by post.\n This is a service free of charge by Bot bank!"
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q85": {
+    "categoryTitle": "Product & Services",
+    "request": "My card has been lost/stolen. What do I do?",
+    "responses": [
+      "You have three options: \n- You can either log into your User Account and click on the option ‘My Bot Prepaid card'. By clicking the button ‘Replace your card’ you automatically block your old card and order a new card immediately;\n- Or you can quickly call your Bot Team on 01 23 45 67 8, Monday to Friday from 7h to 22h and Saturday from 9h to 17h, to ask for your card to be blocked. Your Bot Team will order your new card immediately;\n- Or call Prepaid STOP as quickly as possible on 070 666 564 -available 24/7- to ask for your card to be blocked You can then replace your card by going to your User Account and order the card by clicking on ‘Replace your card’.\nIn any event, we also recommend that you notify the loss or theft to the police as soon as possible.\nYour new card will be sent to you at your home address within 10 days. The balance on your blocked card will automatically be transferred to your new card.\nThe charge for replacing your card is € 8 and will be deducted from your available balance."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q86": {
+    "categoryTitle": "Product & Services",
+    "request": "My card has been swallowed up by an ATM. What do I need to do?",
+    "responses": [
+      "Do the right thing! Contact your Bot Team who will resolve this situation rapidly. Your Bot Team can be contacted from Monday to Friday, from 7h to 22h, and on Saturday from 9h to 17h, on 01 23 45 67 8.\n \nYour new card will be ordered and will be sent by post to your home address within 10 days. The balance of your old card will be automatically transferred to your new card. The cost for replacing your card is €8 and will be deducted from your available balance."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q87": {
+    "categoryTitle": "Product & Services",
+    "request": "My card is damaged. What do I do?",
+    "responses": [
+      "Replace your damaged card by going to your User Account and click on the heading 'My Bot Prepaid card', then click ‘Replace your card’."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q88": {
+    "categoryTitle": "Product & Services",
+    "request": "What is the expiry date of my card?",
+    "responses": [
+      "All physical and virtual cards are valid for 2 years as from the issuance date of the card. The expiry date and year are indicated on your physical Bot Prepaid card and for your virtual Bot Prepaid card you can find this information under the heading 'My Bot Prepaid card' in your User Account."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q89": {
+    "categoryTitle": "Product & Services",
+    "request": "What should I do if the transaction amount exceeds the balance of my Bot Prepaid card?",
+    "responses": [
+      "If the retailer enters an amount higher than the available balance into the payment terminal, a message will be displayed: ‘balance insufficient'. You can, however, propose to use different means of payment to make up the difference, by paying in cash, for example. The retailer must, however, agree to split the total amount into two different payments."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q90": {
+    "categoryTitle": "Product & Services",
+    "request": "I want to cancel my Bot Prepaid card. Is this possible?",
+    "responses": [
+      "You can cancel your card whenever you want. You just need to contact your Bot Team on 01 23 45 67 8, Monday to Friday from 7h to 22h and Saturday from 9h to 17h. Please note that cancelling your card also terminates your contract. We therefore recommend you to use the balance on your card before cancelling the card"
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q91": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I recover the outstanding balance on my card when it is cancelled?",
+    "responses": [
+      "If you decide to cancel your card, the outstanding balance is automatically transferred to your Bot Current Account.\nThis is a service free of charge by Bot bank!"
+    ],
+    "links": [
+      {
+        "href": "/our-offer/the-bot-current-account-and-its-bot-bank-card",
+        "text": "Bot Current Account"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q92": {
+    "categoryTitle": "Product & Services",
+    "request": "How is the request for a new password secured?",
+    "responses": [
+      "The request will be secured with the use of the security question."
+    ],
+    "links": [],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q93": {
+    "categoryTitle": "Product & Services",
+    "request": "I forgot the answer of my security question, how can I still have access?",
+    "responses": [
+      "Call your Bot Team on 01 23 45 67 8. They will communicate your answer after having checked your identity."
+    ],
+    "links": [
+      {
+        "href": "/say-bot",
+        "text": "Bot Team"
+      }
+    ],
+    "subCategoryTitle": "Bot Prepaid card"
+  },
+  "product-services-q94": {
+    "categoryTitle": "Product & Services",
+    "request": "What is Botbank Mobile Payments?",
+    "responses": [
+      "With Botbank Mobile Payments, you can make a transfer using any Botlander mobile device number linked to an account number. You don't need to know the beneficiary's bank account number. \nOnce a Botlander mobile device number is associated with a Botlander account number, you can send or receive Botbank Mobile Payments payments using this number."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/botbank-mobile-payments",
+        "text": "Botbank Mobile Payments"
+      }
+    ],
+    "subCategoryTitle": "Botbank Mobile Payments"
+  },
+  "product-services-q95": {
+    "categoryTitle": "Product & Services",
+    "request": "Who can I use Botbank Mobile Payments?",
+    "responses": [
+      "- To transfer money with Botbank Mobile Payments, you need to activate the Botbank Mobile Payments service, using the app Bot bank!.\n \n- In principle, anyone can receive payments via Botbank Mobile Payments. This includes Bot bank! customers and non-customers. To be able to receive payments on your account using your mobile device number, you must link your mobile device number to your account number at www.mobilepayments.botbank.distributionlab.com."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/botbank-mobile-payments",
+        "text": "Botbank Mobile Payments"
+      },
+      {
+        "href": "http://www.mobilepayments.botbank.distributionlab.com",
+        "text": "www.mobilepayments.botbank.distributionlab.com"
+      }
+    ],
+    "subCategoryTitle": "Botbank Mobile Payments"
+  },
+  "product-services-q96": {
+    "categoryTitle": "Product & Services",
+    "request": "How do I enable Botbank Mobile Payments?",
+    "responses": [
+      "You have to enable Botbank Mobile Payments when you first use the app Bot bank!.\n You have to enter a Botlander mobile device number and an account number. By default, the mobile device number selected is the one you entered when you the app Bot bank!, but you can change it at any time."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/botbank-mobile-payments",
+        "text": "Botbank Mobile Payments"
+      }
+    ],
+    "subCategoryTitle": "Botbank Mobile Payments"
+  },
+  "product-services-q97": {
+    "categoryTitle": "Product & Services",
+    "request": "How much can I transfer using Botbank Mobile Payments?",
+    "responses": [
+      "With Botbank Mobile Payments, you can make payments of up to EUR 250 a day."
+    ],
+    "links": [
+      {
+        "href": "/our-offer/botbank-mobile-payments",
+        "text": "Botbank Mobile Payments"
+      }
+    ],
+    "subCategoryTitle": "Botbank Mobile Payments"
+  },
+  "product-services-q98": {
+    "categoryTitle": "Product & Services",
+    "request": "Can I send an Botbank Mobile Payments to a friend who doesn't use Botbank Mobile Payments yet?",
+    "responses": [
+      "Yes, the beneficiary will receive a text message inviting them to register for Botbank Mobile Payments at www.mobilepayments.botbank.distributionlab.com."
+    ],
+    "links": [
+      {
+        "href": "http://www.mobilepayments.botbank.distributionlab.com",
+        "text": "www.mobilepayments.botbank.distributionlab.com."
+      }
+    ],
+    "subCategoryTitle": "Botbank Mobile Payments"
+  },
+  "product-services-q99": {
+    "categoryTitle": "Product & Services",
+    "request": "Will the beneficiary receive notification?",
+    "responses": [
+      "If the beneficiary isn‘t yet an Botbank Mobile Payments user, they will receive a text message inviting them to register as a beneficiary on Botbank Mobile Payments at www.mobilepayments.botbank.distributionlab.com.\n \nIf the beneficiary has already enabled Botbank Mobile Payments, they will receive no further text notifications. But if you have sent them a payment, you can still generate a notification message yourself."
+    ],
+    "links": [
+      {
+        "href": "http://www.mobilepayments.botbank.distributionlab.com",
+        "text": "www.mobilepayments.botbank.distributionlab.com"
+      }
+    ],
+    "subCategoryTitle": "Botbank Mobile Payments"
+  }
+}
