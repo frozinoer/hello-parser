@@ -72,6 +72,8 @@ function processHelloPages() {
 							var href = $(this).attr("href");
 							var text = $(this).text();
 
+              if(href.indexOf('/') === 0) href = 'https://www.hellobank.be' + href;
+
 							links[links.length] = {
 								href: anonymize(href),
 								text: anonymize(text)
