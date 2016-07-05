@@ -17,13 +17,6 @@ var urls = [
 	'https://www.hellobank.be/faq/faq-detail/?category=support-and-help'
 ]
 
-var itentListUrl = {
-  protocol: 'https',
-  host: 'api.api.ai',
-  pathname: '/v1/intents?v=20150910'
-};
-
-
 var items = {};
 var parsed = 0;
 
@@ -36,99 +29,7 @@ var responseThreshold = 280;
 
 var deanonimizedUserSays = {};
 
-var clientKey = 'f83c20e2568641128261f275d8d392b2';
-
-
-request({
-    url: url.format(itentListUrl),
-    method: "GET",
-    auth: {
-    	'bearer': clientKey
-  	}, header: {
-		'Content-Type': 'application/json; charset=utf-8'
-  	}
-}, function(err, res, body){
-
-	if (res && res.statusCode === 200) {
-
-			var intents = JSON.parse(body);
-			var intentIds = [];
-
-
-			for (var i in intents) {
-					var intent = intents[i];
-					intentIds[intentIds.length] = intents[i].id;
-			}
-
-			processIntents(intentIds, 0);
-	}
-
-//		console.log(body);
-	if (res.statusCode === 400) {
-  		console.log("400");			
-	} else if (res.statusCode === 409) {
-  		console.log("409");			
-	} else if (res.statusCode !== 400 && res.statusCode !== 409 && res.statusCode !== 200) {
-		console.log("code error : " + res.statusCode); 
-	}
-});
-
-function processIntents(ids, index) {
-
-	console.log("intent [" + (index+1) + "/" + ids.length + "]");
-
-	var itentUrl = {
-	  protocol: 'https',
-	  host: 'api.api.ai',
-	  pathname: '/v1/intents/' + ids[index] + "?v=20150910"
-	};
-
-	request({
-	    url: url.format(itentUrl),
-	    method: "GET",
-	    auth: {
-	    	'bearer': clientKey
-	  	}, header: {
-			'Content-Type': 'application/json; charset=utf-8'
-	  	}
-	}, function(err, res, body){
-
-		if (res && res.statusCode === 200) {
-
-				var intent = JSON.parse(body);
-
-				var action = deanonomizeAction(intent.name.substr(4));
-
-				var userSays = [];
-				for (var i = 0; i < intent.userSays.length; ++i) {
-					var userSay = "";
-					for (var j = 0; j < intent.userSays[i].data.length; ++j) {
-						userSay += intent.userSays[i].data[j].text;	
-					}
-					userSay = deanonymizeUserSay(userSay);
-					userSays[userSays.length] = userSay.trim();
-				}
-				deanonimizedUserSays[action] = userSays;
-
-				if (index < ids.length - 1) {
-					processIntents(ids, index + 1);
-				} else {
-					console.log("All intents are processed");
-					processHelloPages();
-
-				}				
-		}
-
-	//		console.log(body);
-		if (res.statusCode === 400) {
-	  		console.log("400");			
-		} else if (res.statusCode === 409) {
-	  		console.log("409");			
-		}  else if (res.statusCode !== 400 && res.statusCode !== 409 && res.statusCode !== 200) {
-			console.log("code error : " + res.statusCode); 
-		}
-	});	
-}
+processHelloPages();
 
 
 function processHelloPages() {
